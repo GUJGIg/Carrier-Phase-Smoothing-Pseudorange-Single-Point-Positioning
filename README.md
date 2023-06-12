@@ -1,0 +1,2 @@
+# Carrier-Phase-Smoothing-Pseudorange-Single-Point-Positioning
+在伪距单点定位的基础上对伪距利用Hactch滤波进行载波相位伪距平滑，进而提升单点定位的精确度
